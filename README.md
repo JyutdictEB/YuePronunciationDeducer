@@ -4,11 +4,12 @@
 所有數據使用 Excel 表格儲存，以便一般人使用  
 轉換出來的字表附有顏色標記，以示可能有出韻等情況，以便做今音字表  
   
+生成表格示例:   
 ![生成字表示例](./export_example.png)  
-<center>生成表格示例</center>  
+  
   
 程序用命令行運行，而 CMD 好似會有問題。沒有專用 shell 的，請使用 PowerShell:  
-* Ctrl+R -> 輸入「powershell」 ->  輸入「cd {程序所在的目錄}」 -> 「./main.exe {參數}」（參數見下）  
+* Ctrl+R -> 輸入 `powershell` ->  輸入 `cd {程序所在的目錄}` -> `./main.exe {參數}`（參數見下）  
   
 *****
   
